@@ -1,31 +1,20 @@
 class Presets(object):
     HELP_TEXT = """
-𝙄𝙣𝙡𝙞𝙣𝙚 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘽𝙤𝙩 𝙃𝙚𝙡𝙥:
+ඕනිම YouTube ලිංක් එකක් මට එවන්න 🥰❤️....
 
-𝐒𝐞𝐧𝐝 𝐚𝐧𝐲 𝐢𝐦𝐚𝐠𝐞 𝐭𝐨 𝐬𝐞𝐭𝐮𝐩 𝐚 𝐩𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐜𝐮𝐬𝐭𝐨𝐦 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐯𝐢𝐝𝐞𝐨𝐬. 
+මම ටක්ගාලා ඩව්න්ලෝඩ් කරලා දෙන්නම් 🥰❤️
 
-𝐓𝐨 𝐝𝐞𝐥𝐞𝐭𝐞 𝐭𝐡𝐞 𝐩𝐫𝐞𝐯𝐢𝐨𝐮𝐬𝐥𝐲 𝐬𝐚𝐯𝐞𝐝 𝐜𝐮𝐬𝐭𝐨𝐦 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥, 𝐬𝐞𝐥𝐞𝐜𝐭 𝐢𝐧 𝐨𝐩𝐭𝐢𝐨𝐧𝐬. 
+ummmmmmmmmmmmmahhh😘😘😘😘😘😘❤️
 
-𝐈𝐟 𝐧𝐨 𝐜𝐮𝐬𝐭𝐨𝐦 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥𝐬 𝐚𝐫𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞, 𝐛𝐨𝐭 𝐰𝐢𝐥𝐥 𝐬𝐞𝐭 𝐭𝐡𝐞 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.
-
-𝐒𝐞𝐚𝐫𝐜𝐡 𝐢𝐧𝐥𝐢𝐧𝐞 𝐟𝐚𝐜𝐢𝐥𝐢𝐭𝐲, 𝐨𝐫 𝐩𝐚𝐬𝐭𝐞 𝐭𝐡𝐞 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐥𝐢𝐧𝐤 𝐭𝐨 𝐬𝐭𝐚𝐫𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠.
-
-𝐉𝐨𝐢𝐧 <a href='https://t.me/RMProjects'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
+Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤️</a> | repo එක 😒<a href='ffuucckkyyoouu.com'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
+    WELCOME_MSG = "හායිම්ම්....😉🤞  {}\nඕනිම YouTube ලිංක් එකක් මට එවන්න 🥰❤️....මට ඒක ඩව්න්ලෝඩ් කරගෙන ඔයාට එවන්න පුළාන් 🥰❤️\nතව ඔයාට මෙතන ඉඳන්ම @YtRavinduBot කියලා ගහලා ඕනිම වීඩියෝ එකක් සර්ච් කරගන්න පුළුවන් 👌❤️
+"
     OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
     RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
+    NO_RESULTS = "❌ මට කිසිවක් හොයාගැනීමට නොහැකි විය🥺"
     DESCRIPTION = "Duration: {} || {}"
-    NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
-    DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
-    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
-    DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
-    DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
-    DEV_LINK = "https://t.me/space4renjith"
-    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐑𝐞𝐧𝐣𝐢𝐭𝐡 𝐌𝐚𝐧𝐠𝐚𝐥 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
+    NOT_AUTH_TXT = "❌අවසර නෑ හුත්තෝ උබට මාව පාවිච්චි කරන්න අපේ ගෲප් එකට වර 👿👿"
     SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
     SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
                   "downloads until you clear it !</code> "
@@ -41,10 +30,10 @@ class Presets(object):
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
-    CHECKING_LINK = "⏳ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭... ⏳"
-    DOWNLOAD_START = "𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠... 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 !"
-    UPLOAD_START = "𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦..."
-    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 !"
+    CHECKING_LINK = "Link එක පරීක්ෂා කරමින්....මදක් රඳී සිටින්න 🥰❤️"
+    DOWNLOAD_START = "Download වෙනවූ 🤗🤗🤗"
+    UPLOAD_START = "ඔයාට එවන ගමන් ඉන්නෙ මම් 🤗🤗❤️"
+    NOT_DOWNLOADABLE = "Copyright කේස් හින්දා මට මේ වීඩියෝ එක බාන්න බෑ 🥺..වෙන ලිංක් එකක් එවන්න 🥺"
     CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
     SEND_TEXT = "<b>Processing...</b>\n<i>This message will automatically disappear when the broadcasting is finished</i> "
     REPLY_ERROR = "<i>Use this command as a replay to any telegram message with out any spaces.</i>"
