@@ -3,8 +3,8 @@
   "description": "Inline YouTube-Dl bot. Create your fork now",
   "keywords": ["telegram", "inline", "YouTube", "downloader", "bot", "open", "source"],
   "logo": "https://img1.pnghut.com/9/16/7/xShRuCnGPS/social-media-youtube-facebook-rectangle-brand.jpg",
-  "website": "https://github.com/m4mallu/inline-tube-mate",
-  "repository": "https://github.com/m4mallu/inline-tube-mate",
+  "website": "https://github.com/mirror-ravindu-1/YouTube-Downloader-Ravindu",
+  "repository": "https://github.com/mirror-ravindu-1/YouTube-Downloader-Ravindu",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
