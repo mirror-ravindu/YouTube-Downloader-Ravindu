@@ -28,8 +28,8 @@ Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤
     #
     #
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
-    FINISHED_PROGRESS_STR = "◼️"
-    UN_FINISHED_PROGRESS_STR = "◻️"
+    FINISHED_PROGRESS_STR = "★"
+    UN_FINISHED_PROGRESS_STR = "☆"
     CHECKING_LINK = "Link එක පරීක්ෂා කරමින්....මදක් රඳී සිටින්න 🥰❤️"
     DOWNLOAD_START = "Download වෙනවූ 🤗🤗🤗"
     UPLOAD_START = "ඔයාට එවන ගමන් ඉන්නෙ මම් 🤗🤗❤️"
@@ -50,7 +50,7 @@ Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/RMProjects'>@RMProjects</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Bot Made By 🥰:- </b><b><a href='https://t.me/Ravindu_Deshanz'>Ravindu Deshan</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
