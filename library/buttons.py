@@ -10,17 +10,17 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('View Thumb', callback_data='view_btn'),
-        InlineKeyboardButton('Del Thumb', callback_data='del_btn')
+        InlineKeyboardButton('View Thumbnail🥰', callback_data='view_btn'),
+        InlineKeyboardButton('Delete Thumbnail🥰', callback_data='del_btn')
 
     ],
     [
-        InlineKeyboardButton('Help', callback_data='help_btn'),
-        InlineKeyboardButton('Support', url='t.me/RMProjects')
+        InlineKeyboardButton('උදව්වක් 🥺❤️', callback_data='help_btn'),
+        InlineKeyboardButton('Group එකට එන්න❤️', url='https://t.me/joinchat/bZfGkMGaGwswZjI1')
     ],
     [
         InlineKeyboardButton('Close', callback_data='close_btn'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('Search කරන්න 😊', switch_inline_query_current_chat='')
     ]
 ]
 
@@ -34,7 +34,7 @@ del_thumb = [
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/RMProjects'),
+        InlineKeyboardButton('⚙ Join Group🥰', url='https://t.me/joinchat/bZfGkMGaGwswZjI1'),
         InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
     ]
 ]
