@@ -10,8 +10,8 @@ class Presets(object):
 
 𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>𝙂𝙧𝙤𝙪𝙥🖤</a> | 𝙍𝙚𝙥𝙤  <a href='ffuucckkyyoouu.com'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG ="𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.<br>𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.<br>𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
-    OPTIONS_TXT = "𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.<br>𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.<br>𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
+    WELCOME_MSG ="𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.\n𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.\n𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
+    OPTIONS_TXT = "𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.\n𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.\n𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
     RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
     NO_RESULTS = "❌ 𝗜 𝘄𝗮𝘀 𝗨𝗻𝗮𝗯𝗹𝗲 𝘁𝗼 𝗙𝗶𝗻𝗱 𝗬𝗼𝘂𝗿 𝗩𝗶𝗱𝗲𝗼 😶"
     DESCRIPTION = "Duration: {} || {}"
