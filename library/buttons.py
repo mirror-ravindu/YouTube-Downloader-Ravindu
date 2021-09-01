@@ -10,17 +10,17 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('View Thumbnail🥰', callback_data='view_btn'),
-        InlineKeyboardButton('Delete Thumbnail🥰', callback_data='del_btn')
+        InlineKeyboardButton('𝗩𝗶𝗲𝘄 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 🍂', callback_data='view_btn'),
+        InlineKeyboardButton('𝗗𝗲𝗹𝗲𝘁𝗲 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 ⚠️', callback_data='del_btn')
 
     ],
     [
-        InlineKeyboardButton('උදව්වක් 🥺❤️', callback_data='help_btn'),
-        InlineKeyboardButton('Group එකට එන්න❤️', url='https://t.me/joinchat/bZfGkMGaGwswZjI1')
+        InlineKeyboardButton('⚡️𝗛𝗲𝗹𝗽⚡️', callback_data='help_btn'),
+        InlineKeyboardButton('𝗝𝗼𝗶𝗻 𝗚𝗿𝗼𝘂𝗽 🌷', url='https://t.me/joinchat/bZfGkMGaGwswZjI1')
     ],
     [
-        InlineKeyboardButton('Close', callback_data='close_btn'),
-        InlineKeyboardButton('Search කරන්න 😊', switch_inline_query_current_chat='')
+        InlineKeyboardButton('𝗖𝗹𝗼𝘀𝗲 𝗺𝗲 🌺⚡️', callback_data='close_btn'),
+        InlineKeyboardButton('𝗦𝗲𝗮𝗿𝗰𝗵 𝗮 𝗩𝗶𝗱𝗲𝗼 💐', switch_inline_query_current_chat='')
     ]
 ]
 
@@ -34,7 +34,7 @@ del_thumb = [
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Group🥰', url='https://t.me/joinchat/bZfGkMGaGwswZjI1'),
+        InlineKeyboardButton('𝗝𝗼𝗶𝗻 𝗚𝗿𝗼𝘂𝗽 🌷', url='https://t.me/joinchat/bZfGkMGaGwswZjI1'),
         InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
     ]
 ]
@@ -48,14 +48,14 @@ back_button = [
 
 close_button = [
     [
-        InlineKeyboardButton('❌ Close', callback_data='close_btn'),
+        InlineKeyboardButton('𝗖𝗹𝗼𝘀𝗲 𝗺𝗲 🌺⚡️', callback_data='close_btn'),
         InlineKeyboardButton('Home', callback_data='home_btn')
     ]
 ]
 
 cancel_button = [
     [
-        InlineKeyboardButton('Cancel', callback_data='cancel_btn')
+        InlineKeyboardButton('𝗖𝗮𝗻𝗰𝗲𝗹 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 ⚠️', callback_data='cancel_btn')
     ]
 ]
 
