@@ -1,20 +1,22 @@
 class Presets(object):
     HELP_TEXT = """
-ඕනිම YouTube ලිංක් එකක් මට එවන්න 🥰❤️....
+𝗛𝗶...🖤🍂
 
-මම ටක්ගාලා ඩව්න්ලෝඩ් කරලා දෙන්නම් 🥰❤️
+𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤
 
-ummmmmmmmmmmmmahhh😘😘😘😘😘😘❤️
+𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤
 
-Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤️</a> | repo එක 😒<a href='ffuucckkyyoouu.com'>𝐋𝐈𝐍𝐊</a>   
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz
+
+𝙅𝙤𝙞𝙣 𝙊𝙪𝙧 <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>𝙂𝙧𝙤𝙪𝙥🖤</a> | 𝙍𝙚𝙥𝙤  <a href='ffuucckkyyoouu.com'>𝐋𝐈𝐍𝐊</a>   
     """
-    WELCOME_MSG ="හායි...🥰❤️... {}\nමට ඕනිම YouTube වීඩියෝ එකක් Download කරන්න පුළුවන් 🥰❤️...YouTube ලිංක් එකක් එවලා පහස අත්විඳින්න 🥲❤️"
-    OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
+    WELCOME_MSG ="𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.<br>𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.<br>𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
+    OPTIONS_TXT = "𝗛𝗶...🖤🍂 {}\n𝗦𝗲𝗻𝗱 𝗔𝗻𝘆 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝗻𝗸 𝘁𝗼 𝗺𝗲 𝗮𝗻𝗱 𝗦𝗲𝗲 𝘁𝗵𝗲 𝗠𝗮𝗴𝗶𝗰 🖤.<br>𝗦𝗲𝗹𝗲𝗰𝘁 𝗧𝗵𝗲 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 🖤.<br>𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗯𝘆 @Ravindu_Deshanz"
     RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ මට කිසිවක් හොයාගැනීමට නොහැකි විය🥺"
+    NO_RESULTS = "❌ 𝗜 𝘄𝗮𝘀 𝗨𝗻𝗮𝗯𝗹𝗲 𝘁𝗼 𝗙𝗶𝗻𝗱 𝗬𝗼𝘂𝗿 𝗩𝗶𝗱𝗲𝗼 😶"
     DESCRIPTION = "Duration: {} || {}"
-    NOT_AUTH_TXT = "❌අවසර නෑ හුත්තෝ උබට මාව පාවිච්චි කරන්න අපේ ගෲප් එකට වර 👿👿"
-    DEFAULT_TITLE = "Ravindu Deshan's YouTube Downloader Bot 🥰"
+    NOT_AUTH_TXT = "𝗬𝗼𝘂 𝗮𝗿𝗲 𝗻𝗼𝘁 𝗔𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗲𝗱 𝘁𝗼 𝗨𝘀𝗲 𝗺𝗲 ⚠️ 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝘁𝗼 𝗨𝘀𝗲 𝘁𝗵𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 ⚠️"
+    DEFAULT_TITLE = "𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗯𝘆 𝗥𝗮𝘃𝗶𝗻𝗱𝘂 𝗗𝗲𝘀𝗵𝗮𝗻 ⚡️"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
     DEFAULT_LINK = "https://github.com/mirror-ravindu-1"
     DEFAULT_DESCRIPTION = "Link: Ravindu | GitHub"
@@ -37,11 +39,11 @@ Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     FINISHED_PROGRESS_STR = "★"
     UN_FINISHED_PROGRESS_STR = "☆"
-    CHECKING_LINK = "Link එක පරීක්ෂා කරමින්....මදක් රඳී සිටින්න 🥰❤️"
-    DOWNLOAD_START = "Download වෙනවූ 🤗🤗🤗"
-    UPLOAD_START = "ඔයාට එවන ගමන් ඉන්නෙ මම් 🤗🤗❤️"
-    NOT_DOWNLOADABLE = "Copyright කේස් හින්දා මට මේ වීඩියෝ එක බාන්න බෑ 🥺..වෙන ලිංක් එකක් එවන්න 🥺"
-    CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
+    CHECKING_LINK = "𝐂𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐋𝐢𝐧𝐤 🍁⚡️...𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 ...⚡️"
+    DOWNLOAD_START = "𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘪𝘯𝘨 𝘧𝘰𝘳 𝘠𝘰𝘶...🖤🍂"
+    UPLOAD_START = "𝘜𝘱𝘭𝘰𝘢𝘥𝘪𝘯𝘨 𝘵𝘰 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 ⚡️🍁"
+    NOT_DOWNLOADABLE = "𝗖𝗮𝗻'𝘁 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝘆𝗼𝘂𝗿 𝗩𝗶𝗱𝗲𝗼 ⚠️<br>𝗣𝗹𝗲𝗮𝘀𝗲 𝗨𝘀𝗲 <b>@YtRavindu2Bot</b> 𝘁𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝘁 ⚠️"
+    CANCEL_PROCESS = "<b>𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘤𝘢𝘯𝘤𝘦𝘭𝘭𝘦𝘥 𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘧𝘶𝘭𝘭𝘺</b>  ⚠️ "
     SEND_TEXT = "<b>Processing...</b>\n<i>This message will automatically disappear when the broadcasting is finished</i> "
     REPLY_ERROR = "<i>Use this command as a replay to any telegram message with out any spaces.</i>"
     USERS_LIST = "<b>Total: {}</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
@@ -57,7 +59,7 @@ Group එකට <a href='https://t.me/joinchat/bZfGkMGaGwswZjI1'>එන්න❤
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Bot Made By 🥰:- </b><b><a href='https://t.me/Ravindu_Deshanz'>Ravindu Deshan</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>𝗕𝗼𝘁 𝗺𝗮𝗱𝗲 𝗯𝘆 ⚡️:- </b><b><a href='https://t.me/Ravindu_Deshanz'>Ravindu Deshan</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
